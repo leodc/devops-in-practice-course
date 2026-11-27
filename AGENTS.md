@@ -9,3 +9,5 @@ Always create presentations as self-contained HTML experiences. Aim for exceptio
 Keep the [course syllabus](course-syllabus.md) at the repository root. Edit it in place when updating the course outline.
 
 Create course lessons in the `lessons/` directory at the repository root.
+
+Don't modify AGENTS.md, README.md or course-syllabus.md if there is no explicit instruction from the user to do it.
